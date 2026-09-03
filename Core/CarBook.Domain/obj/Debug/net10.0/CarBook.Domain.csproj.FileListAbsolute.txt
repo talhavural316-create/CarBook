@@ -1,0 +1,12 @@
+C:\Users\talha\OneDrive\Belgeler\GitHub\CarBook\Core\CarBook.Domain\bin\Debug\net10.0\CarBook.Domain.deps.json
+C:\Users\talha\OneDrive\Belgeler\GitHub\CarBook\Core\CarBook.Domain\bin\Debug\net10.0\CarBook.Domain.dll
+C:\Users\talha\OneDrive\Belgeler\GitHub\CarBook\Core\CarBook.Domain\bin\Debug\net10.0\CarBook.Domain.pdb
+C:\Users\talha\OneDrive\Belgeler\GitHub\CarBook\Core\CarBook.Domain\obj\Debug\net10.0\CarBook.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\talha\OneDrive\Belgeler\GitHub\CarBook\Core\CarBook.Domain\obj\Debug\net10.0\CarBook.Domain.AssemblyInfoInputs.cache
+C:\Users\talha\OneDrive\Belgeler\GitHub\CarBook\Core\CarBook.Domain\obj\Debug\net10.0\CarBook.Domain.AssemblyInfo.cs
+C:\Users\talha\OneDrive\Belgeler\GitHub\CarBook\Core\CarBook.Domain\obj\Debug\net10.0\CarBook.Domain.csproj.CoreCompileInputs.cache
+C:\Users\talha\OneDrive\Belgeler\GitHub\CarBook\Core\CarBook.Domain\obj\Debug\net10.0\CarBook.Domain.sourcelink.json
+C:\Users\talha\OneDrive\Belgeler\GitHub\CarBook\Core\CarBook.Domain\obj\Debug\net10.0\CarBook.Domain.dll
+C:\Users\talha\OneDrive\Belgeler\GitHub\CarBook\Core\CarBook.Domain\obj\Debug\net10.0\refint\CarBook.Domain.dll
+C:\Users\talha\OneDrive\Belgeler\GitHub\CarBook\Core\CarBook.Domain\obj\Debug\net10.0\CarBook.Domain.pdb
+C:\Users\talha\OneDrive\Belgeler\GitHub\CarBook\Core\CarBook.Domain\obj\Debug\net10.0\ref\CarBook.Domain.dll
