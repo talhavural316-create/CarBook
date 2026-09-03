@@ -1,5 +1,6 @@
 <Solution>
   <Folder Name="/Core/">
+    <Project Path="Core/CarBook.Application/CarBook.Application.csproj" Id="fe270b32-0058-4b0e-97f2-8789780f56d5" />
     <Project Path="Core/CarBook.Domain/CarBook.Domain.csproj" Id="630881b3-1291-4045-aff0-0dd7ede57782" />
   </Folder>
   <Folder Name="/Infrastructure/">

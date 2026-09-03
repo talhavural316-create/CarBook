@@ -1,12 +1,10 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Linq;
 using System.Text;
-using System.Threading.Tasks;
 
-namespace CarBook.Domain.Entities
+namespace CarBook.Application.Features.CQRS.Results.About_Results
 {
-    public class About
+    public class GetAboutByIdQueryResult
     {
         public int AboutID { get; set; }
         public string Title { get; set; }

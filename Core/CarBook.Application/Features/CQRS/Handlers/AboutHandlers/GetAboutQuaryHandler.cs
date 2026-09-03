@@ -1,0 +1,32 @@
+﻿using CarBook.Application.Features.CQRS.Results.About_Results;
+using CarBook.Application.İnterfaces;
+using CarBook.Domain.Entities;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Threading.Tasks;
+
+namespace CarBook.Application.Features.CQRS.Handlers.AboutHandlers
+{
+    public class GetAboutQueryHandler
+    {
+        private readonly IRepository<About> _repository;
+
+        public GetAboutQueryHandler(IRepository<About> repository)
+        {
+            _repository = repository;
+        }
+
+        public async Task<List<GetAboutQueryResult>> Handle()
+        {
+            var values = await _repository.GetAllAsync();
+            return values.Select(x => new GetAboutQueryResult
+            {
+                AboutID = x.AboutID,
+                Description = x.Description,
+                Title = x.Title,
+                İmageUrl = x.İmageUrl
+            }).ToList();
+        }
+    }
+}
