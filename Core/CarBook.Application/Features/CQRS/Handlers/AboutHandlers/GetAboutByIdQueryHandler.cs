@@ -24,7 +24,7 @@ namespace CarBook.Application.Features.CQRS.Handlers.AboutHandlers
             var values = await _repository.GetByIdAsync(query.Id);
             return new GetAboutByIdQueryResult
             {
-                AboutID = values.AboutID,
+                AboutID = values.AboutId,
                 Description = values.Description,
                 İmageUrl = values.İmageUrl,
                 Title = values.Title

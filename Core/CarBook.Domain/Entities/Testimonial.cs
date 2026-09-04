@@ -10,8 +10,8 @@ namespace CarBook.Domain.Entities
     {
         public int TestimonialId { get; set; }
         public string Name { get; set; }
-        public string title { get; set; }
+        public string Title { get; set; }
         public string Comment { get; set; }
-        public string imageUrl { get; set; }
+        public string İmageUrl { get; set; }
     }
 }
