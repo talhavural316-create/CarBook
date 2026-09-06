@@ -4,7 +4,7 @@ using System;
 using System.Collections.Generic;
 using System.Text;
 
-namespace CarBook.Persistence
+namespace CarBook.Persistence.Context
 {
     public class CarBookContext : DbContext
     {

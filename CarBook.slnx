@@ -6,7 +6,6 @@
   <Folder Name="/Infrastructure/">
     <Project Path="Infrastructure/CarBook.Persistence/CarBook.Persistence.csproj" Id="245043a9-d142-424e-86dd-413495d87104" />
   </Folder>
-  <Folder Name="/Infrastructure/Context/" />
   <Folder Name="/Presentation/">
     <Project Path="Presentation/CarBook.WebApi/CarBook.WebApi.csproj" Id="c6cd9ffe-2ea8-4bc7-bd7e-98aefdbcc8d9" />
   </Folder>
