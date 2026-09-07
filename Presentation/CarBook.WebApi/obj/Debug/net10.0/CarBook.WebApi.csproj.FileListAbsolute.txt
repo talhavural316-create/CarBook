@@ -174,3 +174,7 @@ C:\Users\talha\OneDrive\Belgeler\GitHub\CarBook\Presentation\CarBook.WebApi\bin\
 C:\Users\talha\OneDrive\Belgeler\GitHub\CarBook\Presentation\CarBook.WebApi\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerUI.dll
 C:\Users\talha\OneDrive\Belgeler\GitHub\CarBook\Presentation\CarBook.WebApi\bin\Debug\net10.0\CarBook.Application.dll
 C:\Users\talha\OneDrive\Belgeler\GitHub\CarBook\Presentation\CarBook.WebApi\bin\Debug\net10.0\CarBook.Application.pdb
+C:\Users\talha\OneDrive\Belgeler\GitHub\CarBook\Presentation\CarBook.WebApi\bin\Debug\net10.0\MediatR.dll
+C:\Users\talha\OneDrive\Belgeler\GitHub\CarBook\Presentation\CarBook.WebApi\bin\Debug\net10.0\MediatR.Contracts.dll
+C:\Users\talha\OneDrive\Belgeler\GitHub\CarBook\Presentation\CarBook.WebApi\bin\Debug\net10.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\talha\OneDrive\Belgeler\GitHub\CarBook\Presentation\CarBook.WebApi\obj\Debug\net10.0\CarBook.WebApi.MvcApplicationPartsAssemblyInfo.cs

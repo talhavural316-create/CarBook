@@ -22,7 +22,7 @@ namespace CarBook.Application.Features.CQRS.Handlers.AboutHandlers
             var values = await _repository.GetByIdAsync(command.AboutId);
             values.Description = command.Description;
             values.Title = command.Title;
-            values.İmageUrl = command.İmageUrl;
+            values.ImageUrl = command.ImageUrl;
             await _repository.UpdateAsync(values);
         }
     }

@@ -19,7 +19,7 @@ namespace CarBook.Persistence.Migrations
                         .Annotation("SqlServer:Identity", "1, 1"),
                     Title = table.Column<string>(type: "nvarchar(max)", nullable: false),
                     Description = table.Column<string>(type: "nvarchar(max)", nullable: false),
-                    imageUrl = table.Column<string>(type: "nvarchar(max)", nullable: false)
+                    ImageUrl = table.Column<string>(type: "nvarchar(max)", nullable: false)
                 },
                 constraints: table =>
                 {
@@ -131,13 +131,13 @@ namespace CarBook.Persistence.Migrations
                 name: "Pricings",
                 columns: table => new
                 {
-                    pricingId = table.Column<int>(type: "int", nullable: false)
+                    PricingId = table.Column<int>(type: "int", nullable: false)
                         .Annotation("SqlServer:Identity", "1, 1"),
                     Name = table.Column<string>(type: "nvarchar(max)", nullable: false)
                 },
                 constraints: table =>
                 {
-                    table.PrimaryKey("PK_Pricings", x => x.pricingId);
+                    table.PrimaryKey("PK_Pricings", x => x.PricingId);
                 });
 
             migrationBuilder.CreateTable(

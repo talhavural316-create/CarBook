@@ -23,7 +23,7 @@ namespace CarBook.Application.Features.CQRS.Handlers.AboutHandlers
             {
                 Title = command.Title,
                 Description = command.Description,
-                İmageUrl = command.ImageUrl
+                ImageUrl = command.ImageUrl
             });
         }
     }

@@ -8,9 +8,9 @@ namespace CarBook.Domain.Entities
 {
     public class Service
     {
-        public int serviceId { get; set; }
-        public string title { get; set; }
-        public string description { get; set; }
-        public string iconUrl { get; set; }
+        public int ServiceId { get; set; }
+        public string Title { get; set; }
+        public string Description { get; set; }
+        public string IconUrl { get; set; }
     }
 }
