@@ -1,0 +1,30 @@
+﻿using CarBook.Application.Features.Mediator.Queries.ServiceQueries;
+using CarBook.Application.Features.Mediator.Results.ServiceResults;
+using CarBook.Application.İnterfaces;
+using CarBook.Domain.Entities;
+using MediatR;
+
+namespace CarBook.Application.Features.Mediator.Handlers.ServiceHandlers
+{
+    public class GetServiceByIdQueryHandler : IRequestHandler<GetServiceByIdQuery, GetServiceByIdQueryResult>
+    {
+        private readonly IRepository<CarBook.Domain.Entities.Service> _repository;
+
+        public GetServiceByIdQueryHandler(IRepository<CarBook.Domain.Entities.Service> repository)
+        {
+            _repository = repository;
+        }
+
+        public async Task<GetServiceByIdQueryResult> Handle(GetServiceByIdQuery request, CancellationToken cancellationToken)
+        {
+            var values = await _repository.GetByIdAsync(request.Id);
+            return new GetServiceByIdQueryResult
+            {
+                ServiceId = values.ServiceId,
+                Title = values.Title,
+                Description = values.Description,
+                IconUrl = values.IconUrl
+            };
+        }
+    }
+}
