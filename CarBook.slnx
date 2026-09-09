@@ -4,6 +4,7 @@
     <Project Path="Core/CarBook.Domain/CarBook.Domain.csproj" Id="630881b3-1291-4045-aff0-0dd7ede57782" />
   </Folder>
   <Folder Name="/Frontends/">
+    <Project Path="Frontends/CarBook.Dto/CarBook.Dto.csproj" Id="2a494997-91e2-4aea-8d9c-bd8a72b4fd78" />
     <Project Path="Frontends/CarBook.WebUI/CarBook.WebUI.csproj" Id="85e3bf5d-010a-4ba5-8caf-4c89cb6fbadc" />
   </Folder>
   <Folder Name="/Infrastructure/">

@@ -10,3 +10,4 @@ C:\Users\talha\OneDrive\Belgeler\GitHub\CarBook\Core\CarBook.Domain\obj\Debug\ne
 C:\Users\talha\OneDrive\Belgeler\GitHub\CarBook\Core\CarBook.Domain\obj\Debug\net10.0\refint\CarBook.Domain.dll
 C:\Users\talha\OneDrive\Belgeler\GitHub\CarBook\Core\CarBook.Domain\obj\Debug\net10.0\CarBook.Domain.pdb
 C:\Users\talha\OneDrive\Belgeler\GitHub\CarBook\Core\CarBook.Domain\obj\Debug\net10.0\ref\CarBook.Domain.dll
+C:\Users\talha\OneDrive\Belgeler\GitHub\CarBook\Core\CarBook.Domain\obj\Debug\net10.0\CarBook..BF86E0B2.Up2Date
