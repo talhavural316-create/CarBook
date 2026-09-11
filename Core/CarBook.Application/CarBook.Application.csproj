@@ -1,20 +1,23 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
 
-  <PropertyGroup>
-    <TargetFramework>net10.0</TargetFramework>
-    <ImplicitUsings>enable</ImplicitUsings>
-    <Nullable>enable</Nullable>
-  </PropertyGroup>
+	<PropertyGroup>
+		<TargetFramework>net10.0</TargetFramework>
+		<ImplicitUsings>enable</ImplicitUsings>
+		<Nullable>enable</Nullable>
+	</PropertyGroup>
 
-  <ItemGroup>
-    <ProjectReference Include="..\CarBook.Domain\CarBook.Domain.csproj" />
-  </ItemGroup>
+	<ItemGroup>
+		<None Include="Features\CQRS\Results\CarResults\GetLast5CarsWithBrandQueryResult.cs" />
+	</ItemGroup>
 
-  <ItemGroup>
-    <PackageReference Include="MediatR" Version="12.1.1" />
-    <PackageReference Include="MediatR.Contracts" Version="2.0.1" />
-    <PackageReference Include="MediatR.Extensions.Microsoft.DependencyInjection" Version="11.1.0" />
-    <PackageReference Include="Microsoft.Extensions.Configuration.Abstractions" Version="10.0.11" />
-  </ItemGroup>
+	<ItemGroup>
+		<ProjectReference Include="..\CarBook.Domain\CarBook.Domain.csproj" />
+	</ItemGroup>
+
+	<ItemGroup>
+		<PackageReference Include="MediatR" Version="12.1.1" />
+		<PackageReference Include="MediatR.Contracts" Version="2.0.1" />
+		<PackageReference Include="Microsoft.Extensions.Configuration.Abstractions" Version="10.0.11" />
+	</ItemGroup>
 
 </Project>
