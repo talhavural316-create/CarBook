@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\talha\\OneDrive\\Belgeler\\GitHub\\CarBook\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{FE270B32-0058-4B0E-97F2-8789780F56D5}|Core\\CarBook.Application\\CarBook.Application.csproj|c:\\users\\talha\\onedrive\\belgeler\\github\\carbook\\core\\carbook.application\\features\\mediator\\queries\\blogqueries\\getblogbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE270B32-0058-4B0E-97F2-8789780F56D5}|Core\\CarBook.Application\\CarBook.Application.csproj|solutionrelative:core\\carbook.application\\features\\mediator\\queries\\blogqueries\\getblogbyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FE270B32-0058-4B0E-97F2-8789780F56D5}|Core\\CarBook.Application\\CarBook.Application.csproj|c:\\users\\talha\\onedrive\\belgeler\\github\\carbook\\core\\carbook.application\\features\\mediator\\queries\\blogqueries\\getblogquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FE270B32-0058-4B0E-97F2-8789780F56D5}|Core\\CarBook.Application\\CarBook.Application.csproj|solutionrelative:core\\carbook.application\\features\\mediator\\queries\\blogqueries\\getblogquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{FE270B32-0058-4B0E-97F2-8789780F56D5}|Core\\CarBook.Application\\CarBook.Application.csproj|c:\\users\\talha\\onedrive\\belgeler\\github\\carbook\\core\\carbook.application\\features\\mediator\\results\\blogresults\\getblogbyidqueryresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FE270B32-0058-4B0E-97F2-8789780F56D5}|Core\\CarBook.Application\\CarBook.Application.csproj|solutionrelative:core\\carbook.application\\features\\mediator\\results\\blogresults\\getblogbyidqueryresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -39,6 +47,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "GetBlogByIdQuery.cs",
+              "DocumentMoniker": "C:\\Users\\talha\\OneDrive\\Belgeler\\GitHub\\CarBook\\Core\\CarBook.Application\\Features\\Mediator\\Queries\\BlogQueries\\GetBlogByIdQuery.cs",
+              "RelativeDocumentMoniker": "Core\\CarBook.Application\\Features\\Mediator\\Queries\\BlogQueries\\GetBlogByIdQuery.cs",
+              "ToolTip": "C:\\Users\\talha\\OneDrive\\Belgeler\\GitHub\\CarBook\\Core\\CarBook.Application\\Features\\Mediator\\Queries\\BlogQueries\\GetBlogByIdQuery.cs",
+              "RelativeToolTip": "Core\\CarBook.Application\\Features\\Mediator\\Queries\\BlogQueries\\GetBlogByIdQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-11T14:47:11.35Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GetBlogQuery.cs",
+              "DocumentMoniker": "C:\\Users\\talha\\OneDrive\\Belgeler\\GitHub\\CarBook\\Core\\CarBook.Application\\Features\\Mediator\\Queries\\BlogQueries\\GetBlogQuery.cs",
+              "RelativeDocumentMoniker": "Core\\CarBook.Application\\Features\\Mediator\\Queries\\BlogQueries\\GetBlogQuery.cs",
+              "ToolTip": "C:\\Users\\talha\\OneDrive\\Belgeler\\GitHub\\CarBook\\Core\\CarBook.Application\\Features\\Mediator\\Queries\\BlogQueries\\GetBlogQuery.cs",
+              "RelativeToolTip": "Core\\CarBook.Application\\Features\\Mediator\\Queries\\BlogQueries\\GetBlogQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-11T14:46:02.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "GetBlogByIdQueryResult.cs",
               "DocumentMoniker": "C:\\Users\\talha\\OneDrive\\Belgeler\\GitHub\\CarBook\\Core\\CarBook.Application\\Features\\Mediator\\Results\\BlogResults\\GetBlogByIdQueryResult.cs",
               "RelativeDocumentMoniker": "Core\\CarBook.Application\\Features\\Mediator\\Results\\BlogResults\\GetBlogByIdQueryResult.cs",
@@ -51,7 +85,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "GetBlogQueryResult.cs",
               "DocumentMoniker": "C:\\Users\\talha\\OneDrive\\Belgeler\\GitHub\\CarBook\\Core\\CarBook.Application\\Features\\Mediator\\Results\\BlogResults\\GetBlogQueryResult.cs",
               "RelativeDocumentMoniker": "Core\\CarBook.Application\\Features\\Mediator\\Results\\BlogResults\\GetBlogQueryResult.cs",
@@ -64,7 +98,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "LocationsController.cs",
               "DocumentMoniker": "C:\\Users\\talha\\OneDrive\\Belgeler\\GitHub\\CarBook\\Presentation\\CarBook.WebApi\\Controllers\\LocationsController.cs",
               "RelativeDocumentMoniker": "Presentation\\CarBook.WebApi\\Controllers\\LocationsController.cs",
@@ -77,7 +111,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "AuthorsController.cs",
               "DocumentMoniker": "C:\\Users\\talha\\OneDrive\\Belgeler\\GitHub\\CarBook\\Presentation\\CarBook.WebApi\\Controllers\\AuthorsController.cs",
               "RelativeDocumentMoniker": "Presentation\\CarBook.WebApi\\Controllers\\AuthorsController.cs",
@@ -90,7 +124,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\talha\\OneDrive\\Belgeler\\GitHub\\CarBook\\Frontends\\CarBook.WebUI\\Views\\Service\\Index.cshtml",
               "RelativeDocumentMoniker": "Frontends\\CarBook.WebUI\\Views\\Service\\Index.cshtml",
@@ -103,7 +137,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\talha\\OneDrive\\Belgeler\\GitHub\\CarBook\\Frontends\\CarBook.WebUI\\Views\\Default\\Index.cshtml",
               "RelativeDocumentMoniker": "Frontends\\CarBook.WebUI\\Views\\Default\\Index.cshtml",
