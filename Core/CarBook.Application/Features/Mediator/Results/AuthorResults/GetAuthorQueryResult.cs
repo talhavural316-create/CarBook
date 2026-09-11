@@ -2,10 +2,11 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace CarBook.Application.Features.CQRS.Results.AuthorResults
+namespace CarBook.Application.Features.Mediator.Results.AuthorResults
 {
-    internal class GetAuthorByIdQueryResult
+    public class GetAuthorQueryResult
     {
+
         public int AuthorId { get; set; }
         public string Name { get; set; }
         public string ImageUrl { get; set; }

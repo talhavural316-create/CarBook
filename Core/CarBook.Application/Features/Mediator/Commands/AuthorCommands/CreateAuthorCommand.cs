@@ -1,13 +1,12 @@
-﻿using System;
+﻿using MediatR;
+using System;
 using System.Collections.Generic;
 using System.Text;
 
-namespace CarBook.Application.Features.CQRS.Results.AuthorResults
+namespace CarBook.Application.Features.Mediator.Commands.AuthorCommands
 {
-    public class GetAuthorQueryResult
+    public class CreateAuthorCommand : IRequest
     {
-
-        public int AuthorId { get; set; }
         public string Name { get; set; }
         public string ImageUrl { get; set; }
         public string Description { get; set; }
