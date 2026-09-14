@@ -1,8 +1,12 @@
-﻿
-using CarBook.Application.İnterfaces.CarInterfaces;
+﻿using CarBook.Application.İnterfaces.CarInterfaces;
 using CarBook.Domain.Entities;
 using CarBook.Persistence.Context;
 using Microsoft.EntityFrameworkCore;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
 
 namespace CarBook.Persistence.Repositories.CarRepositories
 {
@@ -18,6 +22,12 @@ namespace CarBook.Persistence.Repositories.CarRepositories
         public List<Car> GetCarsListWithBrands()
         {
             var values = _context.Cars.Include(x => x.Brand).ToList();
+            return values;
+        }
+
+        public List<Car> GetCarsWithPricings()
+        {
+            var values = _context.Cars.Include(x => x.Brand).Include(y => y.CarPricings).ThenInclude(z => z.Pricing).ToList();
             return values;
         }
 

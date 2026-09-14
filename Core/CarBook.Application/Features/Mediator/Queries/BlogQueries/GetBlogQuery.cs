@@ -6,7 +6,7 @@ using System.Text;
 
 namespace CarBook.Application.Features.Mediator.Queries.BlogQueries
 {
-    public class GetBlogQuerypublic: IRequest<List<GetBlogQueryResult>>
+    public class GetBlogQuery : IRequest<List<GetBlogQueryResult>>
     {
     }
 }
