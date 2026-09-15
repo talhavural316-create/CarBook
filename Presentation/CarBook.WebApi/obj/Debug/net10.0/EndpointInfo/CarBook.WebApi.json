@@ -469,6 +469,18 @@
         }
       }
     },
+    "/api/Blogs/GetAllBlogsWithAuthorList": {
+      "get": {
+        "tags": [
+          "Blogs"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
     "/api/Brands": {
       "get": {
         "tags": [
