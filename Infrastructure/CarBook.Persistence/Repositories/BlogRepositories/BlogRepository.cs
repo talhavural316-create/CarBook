@@ -2,6 +2,8 @@
 using CarBook.Domain.Entities;
 using CarBook.Persistence.Context;
 using Microsoft.EntityFrameworkCore;
+using System.Collections.Generic;
+using System.Linq;
 
 namespace CarBook.Persistence.Repositories.BlogRepositories
 {
@@ -12,6 +14,12 @@ namespace CarBook.Persistence.Repositories.BlogRepositories
         public BlogRepository(CarBookContext context)
         {
             _context = context;
+        }
+
+        public List<Blog> GetAllBlogsWithAuthors()
+        {
+            var values = _context.Blogs.Include(x => x.Author).ToList();
+            return values;
         }
 
         public List<Blog> GetLast3BlogsWithAuthors()
