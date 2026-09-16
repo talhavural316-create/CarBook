@@ -1,10 +1,10 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
+﻿using System.Collections.Generic;
+using CarBook.Domain.Entities;
 
 namespace CarBook.Application.Interfaces.TagCloudInterfaces
 {
-    internal interface ITagCloudRepository
+    public interface ITagCloudRepository
     {
+        List<TagCloud> GetTagCloudsByBlogId(int id);
     }
 }
