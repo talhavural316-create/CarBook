@@ -1760,6 +1760,28 @@
         }
       }
     },
+    "/api/TagClouds/GetTagCloudByBlogId": {
+      "get": {
+        "tags": [
+          "TagClouds"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "query",
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
     "/api/Testimonials": {
       "get": {
         "tags": [
