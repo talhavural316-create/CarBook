@@ -2,7 +2,9 @@ C:\Users\talha\OneDrive\Belgeler\GitHub\CarBook\Infrastructure\CarBook.Persisten
 C:\Users\talha\OneDrive\Belgeler\GitHub\CarBook\Infrastructure\CarBook.Persistence\bin\Debug\net10.0\CarBook.Persistence.runtimeconfig.json
 C:\Users\talha\OneDrive\Belgeler\GitHub\CarBook\Infrastructure\CarBook.Persistence\bin\Debug\net10.0\CarBook.Persistence.dll
 C:\Users\talha\OneDrive\Belgeler\GitHub\CarBook\Infrastructure\CarBook.Persistence\bin\Debug\net10.0\CarBook.Persistence.pdb
+C:\Users\talha\OneDrive\Belgeler\GitHub\CarBook\Infrastructure\CarBook.Persistence\bin\Debug\net10.0\CarBook.Application.dll
 C:\Users\talha\OneDrive\Belgeler\GitHub\CarBook\Infrastructure\CarBook.Persistence\bin\Debug\net10.0\CarBook.Domain.dll
+C:\Users\talha\OneDrive\Belgeler\GitHub\CarBook\Infrastructure\CarBook.Persistence\bin\Debug\net10.0\CarBook.Application.pdb
 C:\Users\talha\OneDrive\Belgeler\GitHub\CarBook\Infrastructure\CarBook.Persistence\bin\Debug\net10.0\CarBook.Domain.pdb
 C:\Users\talha\OneDrive\Belgeler\GitHub\CarBook\Infrastructure\CarBook.Persistence\obj\Debug\net10.0\CarBook.Persistence.csproj.AssemblyReference.cache
 C:\Users\talha\OneDrive\Belgeler\GitHub\CarBook\Infrastructure\CarBook.Persistence\obj\Debug\net10.0\CarBook.Persistence.GeneratedMSBuildEditorConfig.editorconfig
@@ -16,5 +18,3 @@ C:\Users\talha\OneDrive\Belgeler\GitHub\CarBook\Infrastructure\CarBook.Persisten
 C:\Users\talha\OneDrive\Belgeler\GitHub\CarBook\Infrastructure\CarBook.Persistence\obj\Debug\net10.0\CarBook.Persistence.pdb
 C:\Users\talha\OneDrive\Belgeler\GitHub\CarBook\Infrastructure\CarBook.Persistence\obj\Debug\net10.0\CarBook.Persistence.genruntimeconfig.cache
 C:\Users\talha\OneDrive\Belgeler\GitHub\CarBook\Infrastructure\CarBook.Persistence\obj\Debug\net10.0\ref\CarBook.Persistence.dll
-C:\Users\talha\OneDrive\Belgeler\GitHub\CarBook\Infrastructure\CarBook.Persistence\bin\Debug\net10.0\CarBook.Application.dll
-C:\Users\talha\OneDrive\Belgeler\GitHub\CarBook\Infrastructure\CarBook.Persistence\bin\Debug\net10.0\CarBook.Application.pdb
