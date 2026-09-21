@@ -3,20 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\talha\\OneDrive\\Belgeler\\GitHub\\CarBook\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{85E3BF5D-010A-4BA5-8CAF-4C89CB6FBADC}|Frontends\\CarBook.WebUI\\CarBook.WebUI.csproj|c:\\users\\talha\\onedrive\\belgeler\\github\\carbook\\frontends\\carbook.webui\\views\\admincar\\createcar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{85E3BF5D-010A-4BA5-8CAF-4C89CB6FBADC}|Frontends\\CarBook.WebUI\\CarBook.WebUI.csproj|solutionrelative:frontends\\carbook.webui\\views\\admincar\\createcar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{85E3BF5D-010A-4BA5-8CAF-4C89CB6FBADC}|Frontends\\CarBook.WebUI\\CarBook.WebUI.csproj|c:\\users\\talha\\onedrive\\belgeler\\github\\carbook\\frontends\\carbook.webui\\areas\\admin\\views\\adminbanner\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{85E3BF5D-010A-4BA5-8CAF-4C89CB6FBADC}|Frontends\\CarBook.WebUI\\CarBook.WebUI.csproj|solutionrelative:frontends\\carbook.webui\\areas\\admin\\views\\adminbanner\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{85E3BF5D-010A-4BA5-8CAF-4C89CB6FBADC}|Frontends\\CarBook.WebUI\\CarBook.WebUI.csproj|c:\\users\\talha\\onedrive\\belgeler\\github\\carbook\\frontends\\carbook.webui\\controllers\\admincarcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{85E3BF5D-010A-4BA5-8CAF-4C89CB6FBADC}|Frontends\\CarBook.WebUI\\CarBook.WebUI.csproj|solutionrelative:frontends\\carbook.webui\\controllers\\admincarcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{85E3BF5D-010A-4BA5-8CAF-4C89CB6FBADC}|Frontends\\CarBook.WebUI\\CarBook.WebUI.csproj|c:\\users\\talha\\onedrive\\belgeler\\github\\carbook\\frontends\\carbook.webui\\views\\adminlayout\\adminsidebarpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{85E3BF5D-010A-4BA5-8CAF-4C89CB6FBADC}|Frontends\\CarBook.WebUI\\CarBook.WebUI.csproj|solutionrelative:frontends\\carbook.webui\\views\\adminlayout\\adminsidebarpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2A494997-91E2-4AEA-8D9C-BD8A72B4FD78}|Frontends\\CarBook.Dto\\CarBook.Dto.csproj|c:\\users\\talha\\onedrive\\belgeler\\github\\carbook\\frontends\\carbook.dto\\cardtos\\createcardto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2A494997-91E2-4AEA-8D9C-BD8A72B4FD78}|Frontends\\CarBook.Dto\\CarBook.Dto.csproj|solutionrelative:frontends\\carbook.dto\\cardtos\\createcardto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{85E3BF5D-010A-4BA5-8CAF-4C89CB6FBADC}|Frontends\\CarBook.WebUI\\CarBook.WebUI.csproj|c:\\users\\talha\\onedrive\\belgeler\\github\\carbook\\frontends\\carbook.webui\\areas\\admin\\views\\adminbanner\\updatebanner.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{85E3BF5D-010A-4BA5-8CAF-4C89CB6FBADC}|Frontends\\CarBook.WebUI\\CarBook.WebUI.csproj|solutionrelative:frontends\\carbook.webui\\areas\\admin\\views\\adminbanner\\updatebanner.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2A494997-91E2-4AEA-8D9C-BD8A72B4FD78}|Frontends\\CarBook.Dto\\CarBook.Dto.csproj|c:\\users\\talha\\onedrive\\belgeler\\github\\carbook\\frontends\\carbook.dto\\branddtos\\resultbranddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2A494997-91E2-4AEA-8D9C-BD8A72B4FD78}|Frontends\\CarBook.Dto\\CarBook.Dto.csproj|solutionrelative:frontends\\carbook.dto\\branddtos\\resultbranddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{85E3BF5D-010A-4BA5-8CAF-4C89CB6FBADC}|Frontends\\CarBook.WebUI\\CarBook.WebUI.csproj|c:\\users\\talha\\onedrive\\belgeler\\github\\carbook\\frontends\\carbook.webui\\areas\\admin\\controllers\\adminbannercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85E3BF5D-010A-4BA5-8CAF-4C89CB6FBADC}|Frontends\\CarBook.WebUI\\CarBook.WebUI.csproj|solutionrelative:frontends\\carbook.webui\\areas\\admin\\controllers\\adminbannercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85E3BF5D-010A-4BA5-8CAF-4C89CB6FBADC}|Frontends\\CarBook.WebUI\\CarBook.WebUI.csproj|c:\\users\\talha\\onedrive\\belgeler\\github\\carbook\\frontends\\carbook.webui\\areas\\admin\\views\\adminbanner\\createbanner.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{85E3BF5D-010A-4BA5-8CAF-4C89CB6FBADC}|Frontends\\CarBook.WebUI\\CarBook.WebUI.csproj|solutionrelative:frontends\\carbook.webui\\areas\\admin\\views\\adminbanner\\createbanner.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85E3BF5D-010A-4BA5-8CAF-4C89CB6FBADC}|Frontends\\CarBook.WebUI\\CarBook.WebUI.csproj|c:\\users\\talha\\onedrive\\belgeler\\github\\carbook\\frontends\\carbook.webui\\controllers\\adminbrandcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85E3BF5D-010A-4BA5-8CAF-4C89CB6FBADC}|Frontends\\CarBook.WebUI\\CarBook.WebUI.csproj|solutionrelative:frontends\\carbook.webui\\controllers\\adminbrandcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -31,53 +39,79 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "CreateCarDto.cs",
-              "DocumentMoniker": "C:\\Users\\talha\\OneDrive\\Belgeler\\GitHub\\CarBook\\Frontends\\CarBook.Dto\\CarDtos\\CreateCarDto.cs",
-              "RelativeDocumentMoniker": "Frontends\\CarBook.Dto\\CarDtos\\CreateCarDto.cs",
-              "ToolTip": "C:\\Users\\talha\\OneDrive\\Belgeler\\GitHub\\CarBook\\Frontends\\CarBook.Dto\\CarDtos\\CreateCarDto.cs",
-              "RelativeToolTip": "Frontends\\CarBook.Dto\\CarDtos\\CreateCarDto.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-18T14:11:50.277Z",
+              "Title": "UpdateBanner.cshtml",
+              "DocumentMoniker": "C:\\Users\\talha\\OneDrive\\Belgeler\\GitHub\\CarBook\\Frontends\\CarBook.WebUI\\Areas\\Admin\\Views\\AdminBanner\\UpdateBanner.cshtml",
+              "RelativeDocumentMoniker": "Frontends\\CarBook.WebUI\\Areas\\Admin\\Views\\AdminBanner\\UpdateBanner.cshtml",
+              "ToolTip": "C:\\Users\\talha\\OneDrive\\Belgeler\\GitHub\\CarBook\\Frontends\\CarBook.WebUI\\Areas\\Admin\\Views\\AdminBanner\\UpdateBanner.cshtml",
+              "RelativeToolTip": "Frontends\\CarBook.WebUI\\Areas\\Admin\\Views\\AdminBanner\\UpdateBanner.cshtml",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAmwCoAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-21T13:07:18.888Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ResultBrandDto.cs",
-              "DocumentMoniker": "C:\\Users\\talha\\OneDrive\\Belgeler\\GitHub\\CarBook\\Frontends\\CarBook.Dto\\BrandDtos\\ResultBrandDto.cs",
-              "RelativeDocumentMoniker": "Frontends\\CarBook.Dto\\BrandDtos\\ResultBrandDto.cs",
-              "ToolTip": "C:\\Users\\talha\\OneDrive\\Belgeler\\GitHub\\CarBook\\Frontends\\CarBook.Dto\\BrandDtos\\ResultBrandDto.cs",
-              "RelativeToolTip": "Frontends\\CarBook.Dto\\BrandDtos\\ResultBrandDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-18T13:54:32.259Z",
+              "DocumentIndex": 4,
+              "Title": "CreateBanner.cshtml",
+              "DocumentMoniker": "C:\\Users\\talha\\OneDrive\\Belgeler\\GitHub\\CarBook\\Frontends\\CarBook.WebUI\\Areas\\Admin\\Views\\AdminBanner\\CreateBanner.cshtml",
+              "RelativeDocumentMoniker": "Frontends\\CarBook.WebUI\\Areas\\Admin\\Views\\AdminBanner\\CreateBanner.cshtml",
+              "ToolTip": "C:\\Users\\talha\\OneDrive\\Belgeler\\GitHub\\CarBook\\Frontends\\CarBook.WebUI\\Areas\\Admin\\Views\\AdminBanner\\CreateBanner.cshtml",
+              "RelativeToolTip": "Frontends\\CarBook.WebUI\\Areas\\Admin\\Views\\AdminBanner\\CreateBanner.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACIAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-21T12:38:23.102Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "CreateCar.cshtml",
-              "DocumentMoniker": "C:\\Users\\talha\\OneDrive\\Belgeler\\GitHub\\CarBook\\Frontends\\CarBook.WebUI\\Views\\AdminCar\\CreateCar.cshtml",
-              "RelativeDocumentMoniker": "Frontends\\CarBook.WebUI\\Views\\AdminCar\\CreateCar.cshtml",
-              "ToolTip": "C:\\Users\\talha\\OneDrive\\Belgeler\\GitHub\\CarBook\\Frontends\\CarBook.WebUI\\Views\\AdminCar\\CreateCar.cshtml",
-              "RelativeToolTip": "Frontends\\CarBook.WebUI\\Views\\AdminCar\\CreateCar.cshtml",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABwAAAAmAAAAAAAAAA==",
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\talha\\OneDrive\\Belgeler\\GitHub\\CarBook\\Frontends\\CarBook.WebUI\\Areas\\Admin\\Views\\AdminBanner\\Index.cshtml",
+              "RelativeDocumentMoniker": "Frontends\\CarBook.WebUI\\Areas\\Admin\\Views\\AdminBanner\\Index.cshtml",
+              "ToolTip": "C:\\Users\\talha\\OneDrive\\Belgeler\\GitHub\\CarBook\\Frontends\\CarBook.WebUI\\Areas\\Admin\\Views\\AdminBanner\\Index.cshtml",
+              "RelativeToolTip": "Frontends\\CarBook.WebUI\\Areas\\Admin\\Views\\AdminBanner\\Index.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAADwvyMAAABGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-09-18T13:17:10.282Z",
+              "WhenOpened": "2026-09-21T11:59:35.034Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AdminBannerController.cs",
+              "DocumentMoniker": "C:\\Users\\talha\\OneDrive\\Belgeler\\GitHub\\CarBook\\Frontends\\CarBook.WebUI\\Areas\\Admin\\Controllers\\AdminBannerController.cs",
+              "RelativeDocumentMoniker": "Frontends\\CarBook.WebUI\\Areas\\Admin\\Controllers\\AdminBannerController.cs",
+              "ToolTip": "C:\\Users\\talha\\OneDrive\\Belgeler\\GitHub\\CarBook\\Frontends\\CarBook.WebUI\\Areas\\Admin\\Controllers\\AdminBannerController.cs",
+              "RelativeToolTip": "Frontends\\CarBook.WebUI\\Areas\\Admin\\Controllers\\AdminBannerController.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAcwD8AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-21T11:55:46.3Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "AdminCarController.cs",
-              "DocumentMoniker": "C:\\Users\\talha\\OneDrive\\Belgeler\\GitHub\\CarBook\\Frontends\\CarBook.WebUI\\Controllers\\AdminCarController.cs",
-              "RelativeDocumentMoniker": "Frontends\\CarBook.WebUI\\Controllers\\AdminCarController.cs",
-              "ToolTip": "C:\\Users\\talha\\OneDrive\\Belgeler\\GitHub\\CarBook\\Frontends\\CarBook.WebUI\\Controllers\\AdminCarController.cs",
-              "RelativeToolTip": "Frontends\\CarBook.WebUI\\Controllers\\AdminCarController.cs",
-              "ViewState": "AgIAABwAAAAAAAAAAAAuwCEAAAAzAAAAAAAAAA==",
+              "Title": "AdminSidebarPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\talha\\OneDrive\\Belgeler\\GitHub\\CarBook\\Frontends\\CarBook.WebUI\\Views\\AdminLayout\\AdminSidebarPartial.cshtml",
+              "RelativeDocumentMoniker": "Frontends\\CarBook.WebUI\\Views\\AdminLayout\\AdminSidebarPartial.cshtml",
+              "ToolTip": "C:\\Users\\talha\\OneDrive\\Belgeler\\GitHub\\CarBook\\Frontends\\CarBook.WebUI\\Views\\AdminLayout\\AdminSidebarPartial.cshtml",
+              "RelativeToolTip": "Frontends\\CarBook.WebUI\\Views\\AdminLayout\\AdminSidebarPartial.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAmwBUAAACKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-21T11:22:03.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AdminBrandController.cs",
+              "DocumentMoniker": "C:\\Users\\talha\\OneDrive\\Belgeler\\GitHub\\CarBook\\Frontends\\CarBook.WebUI\\Controllers\\AdminBrandController.cs",
+              "RelativeDocumentMoniker": "Frontends\\CarBook.WebUI\\Controllers\\AdminBrandController.cs",
+              "ToolTip": "C:\\Users\\talha\\OneDrive\\Belgeler\\GitHub\\CarBook\\Frontends\\CarBook.WebUI\\Controllers\\AdminBrandController.cs",
+              "RelativeToolTip": "Frontends\\CarBook.WebUI\\Controllers\\AdminBrandController.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAwwBAAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-18T09:28:32.783Z",
+              "WhenOpened": "2026-09-21T10:47:40.792Z",
               "EditorCaption": ""
             }
           ]

@@ -1,0 +1,29 @@
+﻿@model CreateBrandDto
+@{
+    ViewData["Title"] = "CreateBrand";
+    Layout = "~/Views/AdminLayout/Index.cshtml";
+}
+
+<div class="page-content">
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-xl-12">
+                <div class="card">
+                    <div class="card-body">
+                        <h4 class="card-title">Yeni Araç Marka Girişi</h4>
+                        <p class="card-subtitle mb-4">
+                            Sisteme yeni bir araç markası eklemek için aşağıdaki alanı doldurabilirsiniz.
+                        </p>
+                        <form method="post">
+                            <div class="form-group">
+                                <label for="BrandName">Marka Adı</label>
+                                <input type="text" class="form-control" id="BrandName" asp-for="Name" placeholder="Marka adını giriniz...">
+                            </div>
+                            <button type="submit" class="btn btn-primary waves-effect waves-light">Markayı Kaydet</button>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
