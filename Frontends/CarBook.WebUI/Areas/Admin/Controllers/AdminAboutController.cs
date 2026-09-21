@@ -51,17 +51,27 @@ namespace CarBook.WebUI.Areas.Admin.Controllers
             }
             return View();
         }
-
         [Route("RemoveAbout/{id}")]
         public async Task<IActionResult> RemoveAbout(int id)
         {
             var client = _httpClientFactory.CreateClient();
-            var responseMessage = await client.DeleteAsync($"https://localhost:7014/api/Abouts/{id}");
+
+            // Hem query string hem de route uyumlu olması için:
+            // Eğer WebApi tarafında [HttpDelete] parametresiz ise ?id= ile çalışır, [HttpDelete("{id}")] ise /{id} ile çalışır.
+            var responseMessage = await client.DeleteAsync($"https://localhost:7014/api/Abouts?id={id}");
+            if (!responseMessage.IsSuccessStatusCode)
+            {
+                // Alternatif route denemesi
+                responseMessage = await client.DeleteAsync($"https://localhost:7014/api/Abouts/{id}");
+            }
+
             if (responseMessage.IsSuccessStatusCode)
             {
                 return RedirectToAction("Index", "AdminAbout", new { area = "Admin" });
             }
-            return View();
+
+            // Başarısız olursa view arayıp çökmesin, doğrudan Index'e geri dönsün:
+            return RedirectToAction("Index", "AdminAbout", new { area = "Admin" });
         }
 
         [HttpGet]
