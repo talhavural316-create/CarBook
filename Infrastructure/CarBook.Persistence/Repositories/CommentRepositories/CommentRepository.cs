@@ -1,6 +1,4 @@
-﻿using System.Collections.Generic;
-using System.Linq;
-using CarBook.Application.Features.RepositoryPattern;
+﻿using CarBook.Application.Features.RepositoryPattern;
 using CarBook.Domain.Entities;
 using CarBook.Persistence.Context;
 
@@ -23,19 +21,17 @@ namespace CarBook.Persistence.Repositories.CommentRepositories
 
         public List<Comment> GetAll()
         {
-            return _context.Comments.Select(x => new Comment
-            {
-                CommentId = x.CommentId,
-                BlogId = x.BlogId,
-                CreateDate = x.CreateDate,
-                Description = x.Description,
-                Name = x.Name
-            }).ToList();
+            return _context.Comments.ToList();
         }
 
         public Comment GetById(int id)
         {
             return _context.Comments.Find(id);
+        }
+
+        public List<Comment> GetCommentsByBlogId(int id)
+        {
+            return _context.Set<Comment>().Where(x => x.BlogId == id).ToList();
         }
 
         public void Remove(Comment entity)
