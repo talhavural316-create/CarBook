@@ -13,4 +13,7 @@
   <Folder Name="/Presentation/">
     <Project Path="Presentation/CarBook.WebApi/CarBook.WebApi.csproj" Id="c6cd9ffe-2ea8-4bc7-bd7e-98aefdbcc8d9" />
   </Folder>
+  <Folder Name="/ToDolist/">
+    <File Path="StatisticList.txt" />
+  </Folder>
 </Solution>

@@ -24,6 +24,11 @@ namespace CarBook.Persistence.Repositories.CarRepositories
             var values = _context.Cars.Include(x => x.Brand).ToList();
             return values;
         }
+        public int GetCarCount()
+        {
+            var value = _context.Cars.Count();
+            return value;
+        }
 
 
         public List<Car> GetLast5CarsWithBrands()

@@ -1806,6 +1806,18 @@
         }
       }
     },
+    "/api/Statistics/GetCarCount": {
+      "get": {
+        "tags": [
+          "Statistics"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
     "/api/TagClouds": {
       "get": {
         "tags": [
@@ -2917,6 +2929,9 @@
     },
     {
       "name": "SocialMedias"
+    },
+    {
+      "name": "Statistics"
     },
     {
       "name": "TagClouds"
