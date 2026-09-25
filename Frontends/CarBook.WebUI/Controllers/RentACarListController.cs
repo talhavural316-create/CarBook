@@ -21,11 +21,17 @@ namespace CarBook.WebUI.Controllers
 
         public async Task<IActionResult> Index(int id)
         {
-            var bookpickdate = TempData.Peek("bookpickdate");
-            var bookoffdate = TempData.Peek("bookoffdate");
-            var timepick = TempData.Peek("timepick");
-            var timeoff = TempData.Peek("timeoff");
-            var locationId = TempData.Peek("locationId");
+            var locationId = TempData["locationId"];
+            var bookpickdate = TempData["bookpickdate"];
+            var bookoffdate = TempData["bookoffdate"];
+            var timepick = TempData["timepick"];
+            var timeoff = TempData["timeoff"];
+
+            // Formdan bir lokasyon gelmediyse doğrudan ana sayfaya yönlendir
+            if (locationId == null && id == 0)
+            {
+                return RedirectToAction("Index", "Default");
+            }
 
             int targetLocationId = id;
 
@@ -38,11 +44,6 @@ namespace CarBook.WebUI.Controllers
                 }
             }
 
-            if (targetLocationId == 0)
-            {
-                targetLocationId = 4;
-            }
-
             ViewBag.bookpickdate = bookpickdate;
             ViewBag.bookoffdate = bookoffdate;
             ViewBag.timepick = timepick;
@@ -50,7 +51,6 @@ namespace CarBook.WebUI.Controllers
             ViewBag.locationId = targetLocationId;
 
             var client = _httpClientFactory.CreateClient();
-
             var filterObj = new
             {
                 LocationId = targetLocationId,
