@@ -22,9 +22,8 @@ namespace CarBook.Persistence.Repositories.CarPricingRepositories
                 .Include(x => x.Car)
                 .ThenInclude(y => y.Brand)
                 .Include(x => x.Pricing)
-                .Where(z => z.PricingId == 2) 
+                .Where(x => x.PricingId == 3) // Sende PricingId = 3 olduğu için 3 yapıyoruz
                 .ToList();
-
             return values;
         }
     }
