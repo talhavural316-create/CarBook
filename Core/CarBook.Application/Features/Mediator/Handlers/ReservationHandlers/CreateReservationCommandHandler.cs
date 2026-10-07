@@ -28,7 +28,8 @@ namespace CarBook.Application.Features.Mediator.Handlers.ReservationHandlers
                 Name = request.Name,
                 Phone = request.Phone,
                 PickUpLocationId = request.PickUpLocationId,
-                Surname = request.Surname
+                Surname = request.Surname,
+                status = "Rezervasyon Alındı"
             });
         }
     }
