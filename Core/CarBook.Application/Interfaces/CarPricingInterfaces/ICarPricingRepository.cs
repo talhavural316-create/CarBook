@@ -8,5 +8,6 @@ namespace CarBook.Application.Interfaces.CarPricingInterfaces
     public interface ICarPricingRepository
     {
         List<CarPricing> GetCarPricingWithCars();
+        List<CarPricing> GetCarPricingWithTimePeriod();
     }
 }
